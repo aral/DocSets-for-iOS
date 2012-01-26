@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DocSets</key>
+	<array>
+		<dict>
+			<key>title</key>
+			<string>iOS 5.0 Library</string>
+			<key>name</key>
+			<string>com.apple.adc.documentation.AppleiOS5_0.iOSLibrary.docset</string>
+			<key>URL</key>
+			<string>http://devimages.apple.com/docsets/20120109/com.apple.adc.documentation.AppleiOS5_0.iOSLibrary.xar</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>iOS 4.3 Library</string>
+			<key>name</key>
+			<string>com.apple.adc.documentation.AppleiOS4_3.iOSLibrary.docset</string>
+			<key>URL</key>
+			<string>http://devimages.apple.com/docsets/20110720/com.apple.adc.documentation.AppleiOS4_3.iOSLibrary.xar</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>iOS 4.2 Library</string>
+			<key>name</key>
+			<string>com.apple.adc.documentation.AppleiOS4_2.iOSLibrary.Xcode4.docset</string>
+			<key>URL</key>
+			<string>http://devimages.apple.com/docsets/20101122/com.apple.adc.documentation.AppleiOS4_2.iOSLibrary.Xcode4.xar</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Mac OS X 10.7 Core Library</string>
+			<key>name</key>
+			<string>com.apple.adc.documentation.AppleLion.CoreReference.docset</string>
+			<key>URL</key>
+			<string>http://devimages.apple.com/docsets/20120109/com.apple.adc.documentation.AppleLion.CoreReference.xar</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Mac OS X 10.6 Core Library</string>
+			<key>name</key>
+			<string>com.apple.adc.documentation.AppleSnowLeopard.CoreReference.docset</string>
+			<key>URL</key>
+			<string>http://devimages.apple.com/docsets/20110621/com.apple.adc.documentation.AppleSnowLeopard.CoreReference.xar</string>
+		</dict>
+	</array>
+</dict>
+</plist>
